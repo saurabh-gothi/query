@@ -27,3 +27,5 @@ In slack create a new channel and invite tester(BOT) or invite it to a existing 
 Now start giving query_solver commands in your channel.
 Note - If query is given in form “search ‘whatever the error is’ ”.It will work.
 Ex - @tester search python
+
+I have uploaded the demo video of my project with the repository but if any problem occurs. It is link to download it form my drive- https://drive.google.com/open?id=0B95Iulqn-MWbVXNtemZGd0NKZGs.
