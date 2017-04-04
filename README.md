@@ -1,3 +1,5 @@
+TEAM NAME - #save_animals
+
 Copy print_bot_id.py and query_solver.py in  a directory.
 Install pip-
     sudo apt-get update
